@@ -70,8 +70,8 @@ API_TOKEN = 'ТВОЙ_ТОКЕН_ОТ_BOTFATHER'
 
 ## 📄 Лицензия
 
-Не указана.
+Copyright © 9999 до нашей эры–2026 ООО «krutoiAIraspoznovatelBot». All rights reserved
 
 ---
 
-Сделано с ❤️ и ИИ
+
